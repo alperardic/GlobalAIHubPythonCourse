@@ -13,12 +13,10 @@ Alper ARDIÇ's Projects
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+NumPy
+Pandas
 ```
 ---
 
-### Certification
-![](img/TopLearnerCertificate.png)
+
 

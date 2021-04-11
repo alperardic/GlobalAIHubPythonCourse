@@ -17,6 +17,8 @@ NumPy
 Pandas
 ```
 ---
+## Certification
+![](img/TopLearnerCertificate.png)
 
 
 
